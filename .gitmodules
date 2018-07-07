@@ -1,0 +1,18 @@
+[submodule "pack/git-plugins/start/YouCompleteMe"]
+	path = pack/git-plugins/start/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "pack/git-plugins/start/editorconfig-vim"]
+	path = pack/git-plugins/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/git-plugins/start/syntastic"]
+	path = pack/git-plugins/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/git-plugins/start/syntastic-local-eslint"]
+	path = pack/git-plugins/start/syntastic-local-eslint
+	url = https://github.com/mtscout6/syntastic-local-eslint.vim.git
+[submodule "pack/git-plugins/start/vim-html-template-literals"]
+	path = pack/git-plugins/start/vim-html-template-literals
+	url = https://github.com/jonsmithers/vim-html-template-literals.git
+[submodule "pack/git-plugins/start/vim-javascript"]
+	path = pack/git-plugins/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
